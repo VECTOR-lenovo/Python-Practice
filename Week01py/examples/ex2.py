@@ -1,0 +1,1 @@
+print(7+8.5)  # This line prints the result of adding 7(int)  and 8.5(float)
